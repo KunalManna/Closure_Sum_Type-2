@@ -1,8 +1,8 @@
-#input-1:  1039           Explanation:  1+9=19  0+3=3
+#input->1:  1039           Explanation:  1+9=19  0+3=3
 #Output:   22                     Ans:  19+3=22
 
 
-#input-2:  2224555        Explanation:  2+5=25  2+5=25  2+5=25   4
+#input->2:  2224555        Explanation:  2+5=25  2+5=25  2+5=25   4
 #output:   79                     Ans:  25+25+125=4 79
 
 
